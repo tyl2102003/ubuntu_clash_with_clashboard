@@ -4,7 +4,9 @@
 2.将clash-dashboard.zip解压。
 ## 2.导入自己的config.yaml
 使用wget -O config.yaml [订阅链接]下载配置文件时，订阅链接要加 **双引号！！！**
-## 3.浏览器登录：https://clash.razord.top
+## 3.配置网络代理如图
+![net config](https://github.com/tyl2102003/ubuntu_clash_with_clashboard/blob/main/picture/net_config.png?raw=true)
+## 4.浏览器登录：https://clash.razord.top
 1.输入秘钥：123456
 
 
