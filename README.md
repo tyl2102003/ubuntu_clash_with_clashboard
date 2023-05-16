@@ -10,7 +10,7 @@
 1.输入秘钥：123456
 ![](picture/razord.top.png)
 2.登录后的图片
-![](
+![](picture/login_clash.png)
 
 
 
