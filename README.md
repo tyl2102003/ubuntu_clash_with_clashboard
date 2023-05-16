@@ -8,6 +8,9 @@
 ![net config](https://github.com/tyl2102003/ubuntu_clash_with_clashboard/blob/main/picture/net_config.png?raw=true)
 ## 4.浏览器登录：https://clash.razord.top
 1.输入秘钥：123456
+![](picture/razord.top.png)
+2.登录后的图片
+![](
 
 
 
