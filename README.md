@@ -11,6 +11,8 @@
 ![](picture/razord.top.png)
 2.登录后的图片
 ![](picture/login_clash.png)
+## 5.配置开机启动参考链接
+https://zhuanlan.zhihu.com/p/366589407
 
 
 
