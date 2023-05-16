@@ -4,5 +4,8 @@
 2.将clash-dashboard.zip解压。
 ## 2.导入自己的config.yaml
 使用wget -O config.yaml [订阅链接]下载配置文件时，订阅链接要加 **双引号！！！**
+## 3.浏览器登录：https://clash.razord.top
+1.输入秘钥：123456
+
 
 
