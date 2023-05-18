@@ -8,7 +8,7 @@ export no_proxy=localhost,127.0.0.0/8,::1
 
 echo "proxy set success"
 # 启动clash
-cd /home/t/下载/clash/clash
+cd ./clash/clash
 echo "starting...."
 ./clash -d .
 echo "启动成功"
