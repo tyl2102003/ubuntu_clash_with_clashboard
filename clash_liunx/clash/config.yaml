@@ -5,6 +5,6 @@ mode: Rule
 log-level: info
 external-controller: '0.0.0.0:9090'
 secret: 123456
-external-ui: /home/t/下载/clash/clash-dashboard
+external-ui: ../clash-dashboard
 proxies:
   
